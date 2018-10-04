@@ -1,0 +1,3 @@
+Un control de versiones como git, lo que nos permite es controlar versiones de nuestros proyectos, lo que nos git nos permite, es obtener diferentes versiones de un  software o sitio, o app, git nos permite regresar a una version anterior, y podemos regresar a una version anterior o ver el codigo, git nos permite de una forma muy facil ver los cambios que hizo una persona y unir el codigo de varias personas y que multiples personas trabajen en una aplicacion.
+ 
+   

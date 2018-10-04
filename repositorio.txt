@@ -1,0 +1,1 @@
+Un repositorio no es mas que un proyecto en el cual vas a tener todo tu sitio y todo tu codigo, y en el cual vas a ir guardando todas tus versiones. 
